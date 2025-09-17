@@ -1,4 +1,4 @@
-# Worldspawn Y-Level Fix <img alt="Teleport Commands Logo" src="https://raw.githubusercontent.com/MrSn0wy/WorldspawnYLevelFix/main/common/src/main/resources/worldspawn_ylevel_fix.png" width="30"/>
+# Worldspawn Y-Level Fix <img alt="Worldspawn Y-Level Fix Logo" src="https://raw.githubusercontent.com/MrSn0wy/WorldspawnYLevelFix/brr/common/src/main/resources/worldspawn_ylevel_fix.png" width="30"/>
 
 A server-side mod that fixes players respawning at the top of the world instead of at the normal worldspawn.
 

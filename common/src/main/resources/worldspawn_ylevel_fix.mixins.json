@@ -5,7 +5,8 @@
   "refmap": "${mod_id}.refmap.json",
   "compatibilityLevel": "JAVA_${java_version}",
   "mixins": [
-    "PlayerRespawnLogicMixin"
+    "ServerPlayerMixin",
+    "EntityMixin"
   ],
   "client": [],
   "server": [],
